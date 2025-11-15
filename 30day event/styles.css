@@ -1,0 +1,14 @@
+body{
+    background-color:lavenderblush;
+}
+h1{
+    background:linear-gradient(to right,violet,darkblue);
+    padding: 20px;
+}
+footer{
+    background-color: grey;
+    padding: 10px;
+}
+a:hover{
+    color: red;
+}
