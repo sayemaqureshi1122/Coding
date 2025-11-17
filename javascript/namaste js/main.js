@@ -7,3 +7,4 @@ function square(num){
 let a1 = square(n);
 console.log(a1);
 
+/* learining about execution context*/
